@@ -61,8 +61,7 @@ export default {
 </script>
 
 <style>
-#app {
-}
+
 .title {
   text-align: center;
 }
